@@ -35,7 +35,7 @@ class MedicationTracker:
         try:
             resposta = requests.get(url)
             if resposta.status_code == 200:
-                dados = response_json = resposta.json()
+                dados = resposta.json()
                 if "erro" in dados:
                     return {"success": False, "message": "Erro: CEP não encontrado."}
                 return {"success": True, "data": dados}
