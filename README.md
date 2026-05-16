@@ -1,5 +1,11 @@
 # HealthCheck - Organizador de Medicamentos 🏥
 
+
+> 🚀 **Link do Deploy/Execução Online:** [Clique aqui para rodar o app no Replit](https://replit.com/@n4thann/Health-Check-CLI)
+>
+> *Nota: Para rodar a aplicação no Replit, basta abrir o link acima e digitar `python healthcheck-cli/healthcheck.py` no terminal (Shell) à direita.*
+
+
 ![Build Status](https://github.com/Nathan7700/healthcheck-app/actions/workflows/ci.yml/badge.svg)
 
 ## 🎯 O Problema
